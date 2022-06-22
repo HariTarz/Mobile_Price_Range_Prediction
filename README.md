@@ -1,10 +1,10 @@
 # Mobile_Price_Range_Prediction
 
-##Problem Description
+**Problem Description**
 In the competitive mobile phone market companies want to understand sales data of mobile phones and factors which drive the prices. The objective is to find out some relation between features of a mobile phone(eg:- RAM, Internal Memory, etc) and its selling price. In this problem, we do not have to predict the actual price but a price range indicating how high the price is.
 
-##Data Description
-###Data fields
+**Data Description**
+**Data fields**
 Battery_power - Total energy a battery can store in one time measured in mAh.
 Blue - Has bluetooth or not.
 Clock_speed - speed at which microprocessor executes instructions.
